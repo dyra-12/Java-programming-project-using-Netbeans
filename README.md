@@ -7,7 +7,8 @@ A web application that the librarian can use. It was created using the portal 
 
 ![image](https://user-images.githubusercontent.com/98106917/207850498-3848dcda-db02-41f9-b3e9-5913c6406949.png)
 
-                                         This is the Start page of our Website.
+                                         This is our website's home page.
+
 
                                                      About us
                                                   
