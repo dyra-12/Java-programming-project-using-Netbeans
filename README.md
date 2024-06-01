@@ -53,10 +53,4 @@ Meet the dedicated individuals who contributed to the development of our Library
 
 Each team member played a crucial role in the success of this project, bringing unique skills and perspectives to the table.
 
-## Contact Us
 
-For inquiries, collaboration opportunities, or further information, please feel free to reach out to:
-
-Email: nikhilgodavarthi9@gmail.com
-
-Thank you for exploring our Library Management System project!
